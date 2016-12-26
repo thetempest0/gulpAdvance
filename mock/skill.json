@@ -1,0 +1,44 @@
+﻿[
+	{
+		"category":"分类:规范",
+		"name":"名称:HTML4、HTML5、ES5、ES6、CommonJS、CMD、AMD等",
+		"time":"时间:1年",
+		"level":"掌握程度:了解"
+	},
+	{
+		"category":"分类:框架",
+		"name":"名称:Jquery、Zepto、AngularJs、Recat、Avalon等",
+		"time":"时间:2年",
+		"level":"掌握程度:熟悉"
+	},
+	{
+		"category":"分类:框架",
+		"name":"名称:Mui、Yo、Ionic等",
+		"time":"时间:2年",
+		"level":"掌握程度:熟悉"
+	},
+	{
+		"category":"分类:类库",
+		"name":"名称:Swiper、Iscroll等",
+		"time":"时间:2年",
+		"level":"掌握程度:熟悉"
+	},
+	{
+		"category":"分类:插件",
+		"name":"名称:Jquery menu plugin、Jquery nav plugin、zepto emoji-expression-plugin等",
+		"time":"时间:2年",
+		"level":"掌握程度:熟悉"
+	},
+	{
+		"category":"分类:布局",
+		"name":"名称:Fixed、Fulid、Flex、Responsive",
+		"time":"时间:3年",
+		"level":"掌握程度:精通"
+	},
+	{
+		"category":"分类:程序",
+		"name":"名称:Javascript原生、Jquery及Zepto插件、AngularJs等",
+		"time":"时间:3年",
+		"level":"掌握程度:精通"
+	}
+]
